@@ -1,0 +1,10 @@
+24.10.2020 01:17:02.766 [main] [DEBUG]  c.i.s.Main - Start of the program
+24.10.2020 01:17:03.255 [main] [INFO ]  c.i.s.Candy - Creating candy c6110bf8-0345-4236-ad66-5665c84795cb
+24.10.2020 01:17:03.261 [main] [INFO ]  c.i.s.Candy - Created candy c6110bf8-0345-4236-ad66-5665c84795cb
+24.10.2020 01:17:03.262 [main] [INFO ]  c.i.s.Candy - Creating candy 188b6fb4-8d2f-4955-8b04-5fdd5d53de10
+24.10.2020 01:17:03.262 [main] [INFO ]  c.i.s.Candy - Created candy 188b6fb4-8d2f-4955-8b04-5fdd5d53de10
+24.10.2020 01:17:03.265 [main] [ERROR]  c.i.s.Main - Incorrect weight! 
+java.lang.IllegalArgumentException: The weight must be greater than 0.0
+	at com.isSoft.stupidClases.Candy.setWeight(Candy.java:38)
+	at com.isSoft.stupidClases.Main.main(Main.java:13)
+24.10.2020 01:17:03.266 [main] [DEBUG]  c.i.s.Main - The end of the program
